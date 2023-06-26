@@ -22,7 +22,7 @@ dependencies:
   - seaborn=0.11.2
   - pytest=7.1.2
   - coverage=7.2.7
-  - pip:
-    - mayavi==4.7.4
-    - pyqt5==5.15.6
-    - vtk==9.1.0
+#  - pip:
+#    - mayavi==4.7.4
+#    - pyqt5==5.15.6
+#    - vtk==9.1.0
