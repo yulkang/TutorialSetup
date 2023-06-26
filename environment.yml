@@ -1,0 +1,28 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.13
+  - pytorch=1.11.0
+  - torchvision=0.12.0
+  - scipy=1.8.1
+  - pandas=1.4.2
+  - weightedstats=0.4.1
+  - numpy_groupies=0.9.16
+  - pylatex=1.4.1
+  - matplotlib=3.5.2
+  - send2trash=1.8.0
+  - moviepy=1.0.3
+  - opencv=4.5.5
+  - networkx=2.8.2
+  - tensorboard=2.6.0
+  - pypdf2=1.28.4
+  - scikit-image=0.19.2
+  - scikit-learn=1.1.1
+  - seaborn=0.11.2
+  - pytest=7.1.2
+  - coverage=7.2.7
+  - pip:
+    - mayavi==4.7.4
+    - pyqt5==5.15.6
+    - vtk==9.1.0
