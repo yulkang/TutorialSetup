@@ -15,7 +15,7 @@ def add_string_to_file(input_file, output_file, string_to_add):
     print(f'Modified content: {content}')
 
     try:
-        mkdir4file(file)
+        mkdir4file(output_file)
         with open(output_file, 'x') as file:
             file.write(content)
         print(f"Modified content has been written to '{output_file}'.")
